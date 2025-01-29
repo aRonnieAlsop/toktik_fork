@@ -1,3 +1,13 @@
+aRonnieAlsop testgit 
+
+
+to work on this: /toktik_fork git checkout -b username/what-we''re doing with it
+
+
+Questions: Keep the forked repositories private or public?
+*Students/alumni good to claim this as a project on their portfolio sites or resumes? --Anything you want to keep private? 
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
